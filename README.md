@@ -1,5 +1,5 @@
 # Sage-AlbatrossV2
-Executable cisco-audit program for grabbing logs of your network devices.
+Executable cisco-audit program for grabbing logs of your network devices. The python script will also be available if you prefer.
 
 ## A Brief
 Sage-Albatross V2 is an improvement on my previous python script. This program is a self-contained network auditing tool to eliminate the time consuming process of manually collecting information from Cisco network devices. By packaging it as an executable it no longer requires the installation of python or the script's dependencies. The program utilizes a user provided list of devices to run diagnostic commands, interpret the results, and present them in a clean and **USEFUL** format. 
